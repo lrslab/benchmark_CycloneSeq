@@ -10,7 +10,7 @@ Open Repository of Scripts and Resources for CycloneSEQ (CS1 and CS2) and Oxford
 
 ## Scripts and pipeline
 
-### Genetics
+### Genomics
 
 The [Giraffe](https://giraffe-documentation.readthedocs.io/en/latest/) documentation for read quality assessment. 
 
@@ -24,7 +24,7 @@ The [QUAST](https://github.com/ablab/quast) introduction for mismatches among as
 
 
 
-### Epigenetics
+### Epigenomics
 
 The [Hammerhead](https://hammerhead-documentation.readthedocs.io/en/latest/#) documentation for *de novo* bacterial methylation detection by stand-specific errors.
 
