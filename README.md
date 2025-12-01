@@ -16,9 +16,9 @@ The [Giraffe](https://giraffe-documentation.readthedocs.io/en/latest/) documenta
 
 The [Flye](https://github.com/mikolmogorov/Flye/blob/flye/docs/USAGE.md) usage for bacterial genome assembly and [Racon](https://github.com/lbcb-sci/racon) usage for both long- and short-read polishing.
 
-The [BUSCO](https://busco.ezlab.org/) introduction for genome completeness assessment.
+The [BUSCO](https://busco.ezlab.org/) software for genome completeness assessment.
 
-The [QUAST](https://github.com/ablab/quast) introduction for mismatches among assemblies.
+The [QUAST](https://github.com/ablab/quast) software for mismatches among assemblies.
 
 
 
